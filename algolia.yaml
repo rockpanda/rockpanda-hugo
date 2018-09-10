@@ -1,0 +1,11 @@
+---
+baseurl: "https://blgo.debris.cn/"
+DefaultContentLanguage: "zh"
+hasCJKLanguage: true
+languageCode: "zh"
+title: "Rockpanda"
+theme: "beautifulhugo"
+metaDataFormat: "yaml"
+subtitle: "Focus on Python、DevOps、Docker、Kubernetes..."
+dateFormat: "January 1, 2018"
+---

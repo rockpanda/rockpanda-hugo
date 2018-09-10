@@ -1,0 +1,122 @@
+baseurl = "https://blog.debris.cn"
+DefaultContentLanguage = "en"
+hasCJKLanguage = true
+languageCode = "zh"
+title = "Rcokpanda"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsUseClasses = false
+pygmentCodeFences = true
+#googleAnalytics = "XXX"
+
+[Params]
+hello = "Hi,I'm Rcokpanda"
+subtitle = "Focus on Python、DevOps、Docker、Kubernetes、Cloud-Native"
+logo = "https://res.cloudinary.com/debris/image/upload/v1536508489/rockpanda/img/rockpanda.jpg"
+favicon = "https://res.cloudinary.com/debris/image/upload/v1536506162/rockpanda/img/favicon.ico"
+share_img = ""
+dateFormat = ""
+commit = false
+rss = true
+baiduKey = "641167f44df8a535b1b1cb073a861fa1"
+#comments = false
+#sharebutton = true
+algolia = "f33e6c69185305572fda08f836223aa5" # API key
+#gcse = "012737790962522169780:fd1izxsfgrs" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+description = "朝俊的博客|Cloud Native Lover|blog.debris.cn"
+errorpage = "https://res.cloudinary.com/debris/image/upload/v1536311609/rockpanda/img/404-southpark.jpg"
+
+[[Params.bigimg]]
+src = "https://res.cloudinary.com/debris/image/upload/v1536311616/rockpanda/img/great-wall-01.jpg"
+desc = ""
+
+
+
+[Author]
+  name = "rockpanda(朝俊)"
+  website = "https://blog.debris.cn"
+  email = "balladpanda@gamil.com"
+  github = "rockpanda"
+  #facebook = "rockpanda"
+  #twitter = "rockpanda"
+  #weibo = "rockpanda"
+
+[[menu.main]]
+    identifier = "Categories"
+    name = "Categories"
+    weight = 1
+
+[[menu.main]]
+    parent = "Categories"
+    name = "python"
+    url = "categories/python"
+    weight = 1
+
+[[menu.main]]
+    parent = "Categories"
+    name = "devops"
+    url = "categories/devops"
+    weight = 2
+
+[[menu.main]]
+    parent = "Categories"
+    name = "docker"
+    url = "categories/docker"
+    weight = 3
+
+[[menu.main]]
+    parent = "Categories"
+    name = "kubernetes"
+    url = "categories/kubernetes"
+    weight = 4
+
+[[menu.main]]
+    parent = "Categories"
+    name = "cloud native"
+    url = "categories/cloud-native"
+    weight = 5
+
+[[menu.main]]
+    parent = "Categories"
+    name = "Tags"
+    url = "tags"
+    weight = 6
+
+[[menu.main]]
+    identifier = "Gitbooks"
+    name = "Gitbooks"
+    weight = 2
+
+[[menu.main]]
+    parent = "Gitbooks"
+    name = "Jumpserver"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    parent = "Gitbooks"
+    name = "Harbor"
+    url = ""
+    weight = 2
+
+[[menu.main]]
+    identifier = "Projects"
+    name = "Projects"
+    weight = 3
+
+[[menu.main]]
+    parent = "Projects"
+    name = "Pandalives"
+    url = "https://github.com/pandalives"
+    weight = 1
+
+[[menu.main]]
+    parent = "Projects"
+    name = "FocusOps"
+    url = "https://github.com/focusops"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "about"
+    weight = 5
