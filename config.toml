@@ -11,7 +11,7 @@ pygmentCodeFences = true
 
 [Params]
 hello = "Hi,I'm Rcokpanda"
-subtitle = "Focus on Python、DevOps、Docker、Kubernetes、Cloud-Native"
+subtitle = "Focus on Python、DevOps、Docker、Kubernetes、Cloud-Native..."
 logo = "https://res.cloudinary.com/debris/image/upload/v1536508489/rockpanda/img/rockpanda.jpg"
 favicon = "https://res.cloudinary.com/debris/image/upload/v1536506162/rockpanda/img/favicon.ico"
 share_img = ""
