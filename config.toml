@@ -12,8 +12,8 @@ pygmentCodeFences = true
 [Params]
 hello = "Hi,I'm Rcokpanda"
 subtitle = "Focus on Python、DevOps、Docker、Kubernetes、Cloud-Native..."
-logo = "https://res.cloudinary.com/debris/image/upload/v1536508489/rockpanda/img/rockpanda.jpg"
-favicon = "https://res.cloudinary.com/debris/image/upload/v1536506162/rockpanda/img/favicon.ico"
+logo = "https://res.cloudinary.com/debris/image/upload/rockpanda/img/rockpanda.jpg"
+favicon = "https://res.cloudinary.com/debris/image/upload/rockpanda/img/favicon.ico"
 share_img = ""
 dateFormat = ""
 commit = false
@@ -24,10 +24,10 @@ baiduKey = "641167f44df8a535b1b1cb073a861fa1"
 algolia = "f33e6c69185305572fda08f836223aa5" # API key
 #gcse = "012737790962522169780:fd1izxsfgrs" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 description = "朝俊的博客|Cloud Native Lover|blog.debris.cn"
-errorpage = "https://res.cloudinary.com/debris/image/upload/v1536311609/rockpanda/img/404-southpark.jpg"
+errorpage = "https://res.cloudinary.com/debris/image/upload/rockpanda/img/404-southpark.jpg"
 
 [[Params.bigimg]]
-src = "https://res.cloudinary.com/debris/image/upload/v1536311616/rockpanda/img/great-wall-01.jpg"
+src = "https://res.cloudinary.com/debris/image/upload/rockpanda/img/great-wall-01.jpg"
 desc = ""
 
 
