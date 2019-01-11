@@ -2,9 +2,10 @@
 draft: false
 date: "2019-01-10T17:40:00+08:00"
 title: "使用Hugo和GitHub Pages等创建自己的博客"
-subtitle: "基础搭建"
+subtitle: "**基础搭建**"
 categories: "devops"
 tags: ["hugo","blog","github"]
+bigimg: [{src: "https://d33wubrfki0l68.cloudfront.net/30790d6888bd8af863fb2b5c33a7f337cdbda243/4e867/images/hugo-logo-wide.svg"}]
 ---
 ## 准备工作
 
